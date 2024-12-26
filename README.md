@@ -1,5 +1,5 @@
-Hello, this is my final project for programmation 1
-I use c++ and raylib for make the snake
+Hello, this is our final project for programmation 1
+We use c++ and raylib for make the snake
 
 # Compile commands
 
